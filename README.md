@@ -1,8 +1,8 @@
 ### Hi there, I'm Kevin 👋
 
-## Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
+# Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
 
-Yet to be tool agnostic, I'm currently learning to build web application using the modern tools and languages of today.
+Yet to be tool agnostic, I'm currently learning to build web applications using the modern tools and languages of today.
 So far my path have led me to use JavaScript and Ruby.
 
 
