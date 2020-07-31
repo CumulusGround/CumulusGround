@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Kevin 👋
 
-<!--
-**CumulusGround/CumulusGround** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
 
-Here are some ideas to get you started:
+Yet to be tool agnostic, I'm currently learning to build web application using the modern tools and languages of today.
+So far my path have led me to use JavaScript and Ruby.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on AWESOME web apps
+- 🌱 I’m currently learning ReactJS, NodeJS & Rails
+- 👯 I’m looking to collaborate on anything that is fun and interesting
+- 🤔 I’m looking for help with understanding infrastructure
+- 💬 Ask me about Music, CSS
+- 📫 How to reach me: follow the breadcrumbs
+- 😄 Pronouns: He
+- ⚡ Fun fact: too many to write here!
 -->
