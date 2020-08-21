@@ -1,3 +1,5 @@
+[![Header](https://github.com/CumulusGround/CumulusGround/blob/master/header_shot.png "Header")](https://kevgarcia.fyi)
+
 ### Hi there, I'm Kevin 👋
 
 ## Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
