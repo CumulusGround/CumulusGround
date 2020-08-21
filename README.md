@@ -5,8 +5,8 @@
 https://kevgarcia.fyi
 
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KevinGarciaFernandez | Instagram" width="22px" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="KevinGarciaFernandez | LinkedIn" width="22px" target="blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KevinGarciaFernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KevinGarciaFernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 Yet to be tool agnostic, I'm currently learning to build web applications using the modern tools and languages of today.
