@@ -2,7 +2,6 @@
 
 ## Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
 
-<br />
 
 https://kevgarcia.fyi
 
@@ -26,8 +25,6 @@ So far my path have led me to use JavaScript and Ruby.
 - 📫 How to reach me: follow the breadcrumbs
 - 😄 Pronouns: He
 - ⚡ Fun fact: too many to write here!
-
-<br />
 
 ---
 
