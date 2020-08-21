@@ -8,7 +8,7 @@ https://kevgarcia.fyi
 [<img align="left" alt="KevinGarciaFernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KevinGarciaFernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-
+<br />
 Yet to be tool agnostic, I'm currently learning to build web applications using the modern tools and languages of today.
 So far my path have led me to use JavaScript and Ruby.
 
