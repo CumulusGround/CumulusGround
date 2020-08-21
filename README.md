@@ -34,7 +34,9 @@ So far my path have led me to use JavaScript and Ruby.
 <img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=CumulusGround)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=CumulusGround&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
