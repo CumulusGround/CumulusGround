@@ -2,13 +2,18 @@
 
 ## Software engineering gives us the freedom to design the world we want to see. Working collaboratively with creative thinkers on innovative solutions that help people & businesses is how I thrive.
 
+<br />
+
 https://kevgarcia.fyi
 
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="KevinGarciaFernandez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="KevinGarciaFernandez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 <br />
+<br />
+
 Yet to be tool agnostic, I'm currently learning to build web applications using the modern tools and languages of today.
 So far my path have led me to use JavaScript and Ruby.
 
@@ -21,6 +26,8 @@ So far my path have led me to use JavaScript and Ruby.
 - 📫 How to reach me: follow the breadcrumbs
 - 😄 Pronouns: He
 - ⚡ Fun fact: too many to write here!
+
+<br />
 
 ---
 
@@ -39,7 +46,6 @@ So far my path have led me to use JavaScript and Ruby.
 <br />
 
 ---
-<br />
 <br />
 
 
