@@ -21,10 +21,10 @@ So far my path have led me to use JavaScript and Ruby.
 - 🌱 I’m currently learning ReactJS, NodeJS & Rails
 - 👯 I’m looking to collaborate on anything that is fun and interesting
 - 🤔 I’m looking for help with understanding infrastructure
-- 💬 Ask me about Music, CSS
+- 💬 Ask me about Music, Skateboarding, CSS, Tooltips!
 - 📫 How to reach me: follow the breadcrumbs
 - 😄 Pronouns: He
-- ⚡ Fun fact: too many to write here!
+- ⚡ Fun fact: Apparently I'm the only one to call Amazon Web Services awesome.....I mean it looks like it => AWS
 
 
 ---
